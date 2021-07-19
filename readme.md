@@ -4,7 +4,7 @@
 
 ![separatpr](assets/separate.jpeg)
 
-- [⚡️ Open-source](#️-open-source)
+- [Open-source](#️-open-source)
 	- [Automation Tools](#automation-tools)
 	- [Packages](#packages)
 	- [Web Apps](#web-apps)
