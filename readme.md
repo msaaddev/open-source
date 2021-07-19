@@ -1,19 +1,18 @@
-# ⚡️ Open-source
+![opensource](assets/opensource.jpeg)
 
->A comprehensive list of all the open-source work I have done over the years.
+## Table of Content
+- [Automation Tools](#automation-tools)
+- [Packages](#packages)
+- [Web Apps](#web-apps)
+- [Guides](#guides)
+- [Contributions](#contributions)
+	- [Organizations](#organizations)
+- [Talks](#talks)
+- [Others](#others)
+- [License & Conduct](#license--conduct)
 
-![separatpr](assets/separate.jpeg)
+![separator](assets/separate.jpeg)
 
-- [Open-source](#️-open-source)
-	- [Automation Tools](#automation-tools)
-	- [Packages](#packages)
-	- [Web Apps](#web-apps)
-	- [Guides](#guides)
-	- [Contributions](#contributions)
-		- [Organizations](#organizations)
-	- [Talks](#talks)
-	- [Others](#others)
-	- [License & Conduct](#license--conduct)
 
 ## Automation Tools
 
