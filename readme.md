@@ -4,13 +4,14 @@
 
 ![separatpr](assets/separate.jpeg)
 
-- [Open-source](#️-open-source)
+- [⚡️ Open-source](#️-open-source)
 	- [Automation Tools](#automation-tools)
 	- [Packages](#packages)
 	- [Web Apps](#web-apps)
 	- [Guides](#guides)
 	- [Contributions](#contributions)
 		- [Organizations](#organizations)
+	- [Talks](#talks)
 	- [Others](#others)
 	- [License & Conduct](#license--conduct)
 
@@ -21,7 +22,7 @@
 - [create-foss-files](https://github.com/msaaddev/create-foss-files) - Get all the files you need to get started with the development of an open-source software.
 - [stackoverflow-cli](https://github.com/msaaddev/stackoverflow-cli) - Interact with StackOverflow without leaving your code-editor.
 - [docx-to-markdown](https://github.com/msaaddev/docx-to-markdown) - Convert all your Micrsoft Word files to Markdown with a single command.
-- [password-gen-cli](https://github.com/msaaddev/password-gen-cli) - Instantly generate random strong passwords
+- [password-gen-cli](https://github.com/msaaddev/password-gen-cli) - Instantly generate random strong passwords.
 - [github-interact-cli](https://github.com/msaaddev/github-interact-cli) - Eliminate the grunt work of repo creation, opening issues, etc and perform all those actions from your terminal.
 - [geo-location-cli](https://github.com/msaaddev/geo-location-cli) - Decode all the information that is encrypted in an IP address.
 - [who-unfollowed-me](https://github.com/msaaddev/who-unfollowed-me) - A CLI that lets you know who has recently unfollowed you on GitHub.
@@ -43,7 +44,7 @@
 - [Shortify](https://github.com/msaaddev/Shortify) - A React.js frontend & Flask backend web app that uses Machine Learning to generate summary of an article.
 - [Notelify](https://github.com/msaaddev/Notelify) - A quick way to manage your notes on the Internet.
 - [AKS Trivia](https://github.com/msaaddev/aks-trivia) - A fun game website that asks you questions and you have 30 seconds to answer it.
-- [f-login-template](https://github.com/msaaddev/f-login-template) - A sign in with Facebook authentication template that you can use in your product
+- [f-login-template](https://github.com/msaaddev/f-login-template) - A sign in with Facebook authentication template that you can use in your product.
 
 ## Guides
 
@@ -57,12 +58,18 @@
 
 ### Organizations
 
-- [Node.js](https://github.com/nodejs/outreach/pulls?q=is%3Apr+msaaddev+is%3Aclosed) - Curated the content for the new community page of Node.js foundation
+- [Node.js](https://github.com/nodejs/outreach/pulls?q=is%3Apr+msaaddev+is%3Aclosed) - Curated the content for the new community page of Node.js foundation.
 - [Directus](https://github.com/directus/directus/pulls?q=is%3Apr+is%3Aopen+msaaddev) - Added some features related to CLI updation.
 - [NiftyCo](https://github.com/aniftyco/awesome-tailwindcss/pulls?q=is%3Apr+is%3Aopen+msaaddev) - New Tailwind resource
 - [Open Observatory of Network Interference](https://github.com/ooni/explorer/pulls?q=is%3Apr+is%3Aopen+msaaddev) - Fixed some bugs and introduced a new feature.
 - [Global Public Inclusive Infrastructure](https://github.com/GPII/gpii-chrome-extension/pulls?q=is%3Apr+is%3Aopen+msaaddev) - Improved documentation and code.
 - [Google Developer Students Club UET Chapter](https://github.com/dscuet) – Set up documentation website and chapter website for Google DSC UET.
+
+## Talks
+
+- [NUST HackClub Session](https://github.com/msaaddev/hackclub-session) - Repo for the talk I delivered on building automation tool with Node.js.
+- [Microsoft Community Islamabad](https://github.com/msaaddev/mlsa_session) - Repo for the talk I delivered on building automation tool with Node.js.
+- [REST API Session](https://github.com/msaaddev/rest-api-session) - Repo for the talk I delivered on the working of REST APIs.
 
 ## Others
 
