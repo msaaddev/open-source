@@ -1,5 +1,11 @@
 ![opensource](assets/opensource.jpeg)
 
+<div align="center">
+	<img src="https://img.shields.io/github/followers/msaaddev?color=fad000&label=GitHub%20Followers&style=for-the-badge" alt="followers" />
+	<img src="https://img.shields.io/github/stars/msaaddev?color=fad000&label=total%20repo%20stars&style=for-the-badge" alt="repo stars" />
+	<img src="https://img.shields.io/twitter/follow/msaaddev?color=fad000&label=Twitter%20Follower&style=for-the-badge" alt="twitter" />
+</div>
+
 ## Table of Content
 - [Automation Tools](#automation-tools)
 - [Packages](#packages)
