@@ -31,12 +31,12 @@
 - [github-interact-cli](https://github.com/msaaddev/github-interact-cli) - Eliminate the grunt work of repo creation, opening issues, etc and perform all those actions from your terminal.
 - [geo-location-cli](https://github.com/msaaddev/geo-location-cli) - Decode all the information that is encrypted in an IP address.
 - [who-unfollowed-me](https://github.com/msaaddev/who-unfollowed-me) - A CLI that lets you know who has recently unfollowed you on GitHub.
+- [.gitignore](https://github.com/msaaddev/gitignore) - Quickly generate a `.gitignore` file in your project.
 
 ## Packages
 
 - [node-async-exec](https://github.com/msaaddev/node-async-exec) - A package that runs exec command asynchronously and also changes directory if needed to run commands.
 - [cross-paths](https://github.com/msaaddev/cross-paths) - A simple path conversion package to convert your paths across different platform.
-- [.gitignore](https://github.com/msaaddev/gitignore) - Quickly generate a `.gitignore` file in your project.
 - [exit-cli](https://github.com/msaaddev/exit-cli) - A nice way to exit your command-line tools. Also, let the user know if an update is available for your CLI.
 
 
