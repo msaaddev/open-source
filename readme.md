@@ -3,7 +3,7 @@
 <div align="center">
 	<img src="https://img.shields.io/github/followers/msaaddev?color=fad000&label=GitHub%20Followers&style=for-the-badge" alt="followers" />
 	<img src="https://img.shields.io/github/stars/msaaddev?color=fad000&label=total%20repo%20stars&style=for-the-badge" alt="repo stars" />
-	<a href="https://stars.github.com/">
+	<a href="https://stars.github.com/nominate/">
 		<img src="https://img.shields.io/badge/GitHub%20Star-Nominate%20%40msaaddev-fad000?style=for-the-badge" alt="nominate @msaaddev for GitHub Star" />
 	</a>
 </div>
