@@ -4,7 +4,6 @@
 	<img src="https://img.shields.io/github/followers/msaaddev?color=fad000&label=GitHub%20Followers&style=for-the-badge" alt="followers" />
 	<img src="https://img.shields.io/github/stars/msaaddev?color=fad000&label=total%20repo%20stars&style=for-the-badge" alt="repo stars" />
 	<img src="https://img.shields.io/badge/GitHub%20Star-Nominate%20%40msaaddev-fad000?style=for-the-badge" alt="nominate @msaaddev for GitHub Star" />
-	<img src="https://img.shields.io/twitter/follow/msaaddev?color=fad000&label=Twitter%20Follower&style=for-the-badge" alt="twitter" />
 </div>
 
 ## Table of Content
@@ -86,3 +85,5 @@
 
 - MIT © [Saad Irfan](https://github.com/msaaddev)
 - [Code of Conduct](https://github.com/msaaddev/opensource/blob/master/code-of-conduct.md)
+
+![twitter](https://img.shields.io/twitter/follow/msaaddev?style=social)
