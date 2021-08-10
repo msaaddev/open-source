@@ -45,6 +45,7 @@
 
 ## Web Apps
 
+- [Movieverse](https://github.com/msaaddev/movieverse) – A Next.js PWA to show you the top-rated movies on TMDB.
 - [Jobboard](https://github.com/msaaddev/jobboard) - A Next.js + Firebase PWA developed to get you hired.
 - [TTable](https://github.com/msaaddev/TTable) - A MERN stack application that can take care of all your university scheduling needs.
 - [GeoWeather](https://github.com/msaaddev/nextjs-weather-pwa) - A Next Weather Progressive Web App (PWA).
