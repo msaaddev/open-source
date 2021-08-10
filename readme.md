@@ -18,11 +18,11 @@
 	- [Organizations](#organizations)
 	- [Users](#users)
 - [Talks](#talks)
+- [Courses](#courses)
 - [Others](#others)
 - [License & Conduct](#license--conduct)
 
 ![separator](assets/separate.jpeg)
-
 
 ## Automation Tools
 
@@ -42,7 +42,6 @@
 - [node-async-exec](https://github.com/msaaddev/node-async-exec) - A package that runs exec command asynchronously and also changes directory if needed to run commands.
 - [cross-paths](https://github.com/msaaddev/cross-paths) - A simple path conversion package to convert your paths across different platform.
 - [exit-cli](https://github.com/msaaddev/exit-cli) - A nice way to exit your command-line tools. Also, let the user know if an update is available for your CLI.
-
 
 ## Web Apps
 
@@ -110,6 +109,10 @@
 - [NUST HackClub Session](https://github.com/msaaddev/hackclub-session) - Repo for the talk I delivered on building automation tool with Node.js.
 - [Microsoft Community Islamabad](https://github.com/msaaddev/mlsa_session) - Repo for the talk I delivered on building automation tool with Node.js.
 - [REST API Session](https://github.com/msaaddev/rest-api-session) - Repo for the talk I delivered on the working of REST APIs.
+
+## Courses
+
+- [Frontend Developer Roadmap](https://www.youtube.com/watch?v=l6U7pXfyuP4&list=PLjjqsCGTfaD7CVJqN3GQdxjHUxEAS1v6B)
 
 ## Others
 
