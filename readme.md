@@ -66,10 +66,14 @@
 ### Organizations
 
 - [Node.js](https://github.com/nodejs/outreach/pulls?q=is%3Apr+msaaddev+is%3Aclosed) - Curated the content for the new community page of Node.js foundation.
+- [FreeCodeCamp](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/573) – Added new open-source programs.
 - [Directus](https://github.com/directus/directus/pulls?q=is%3Apr+is%3Aopen+msaaddev) - Added some features related to CLI updation.
-- [NiftyCo](https://github.com/aniftyco/awesome-tailwindcss/pulls?q=is%3Apr+is%3Aopen+msaaddev) - New Tailwind resource
+- [NiftyCo](https://github.com/aniftyco/awesome-tailwindcss/pulls?q=is%3Apr+is%3Aopen+msaaddev) - New Tailwind resource.
 - [Open Observatory of Network Interference](https://github.com/ooni/explorer/pulls?q=is%3Apr+is%3Aopen+msaaddev) - Fixed some bugs and introduced a new feature.
 - [Global Public Inclusive Infrastructure](https://github.com/GPII/gpii-chrome-extension/pulls?q=is%3Apr+is%3Aopen+msaaddev) - Improved documentation and code.
+- [NeoVantium](https://github.com/NeoVantium/NeoVantium.github.io/pull/1) – Fixed heading structure.
+- [Open-Dev-Community](https://github.com/Open-Dev-Community/Hacktoberfest/pull/16) – Improved content and headings.
+- [operator-framework](https://github.com/operator-framework/operator-framework.io/pull/22) – Added new meta tags and improved code formatting.
 - [Google Developer Students Club UET Chapter](https://github.com/dscuet) – Set up documentation website and chapter website for Google DSC UET.
 
 ## Talks
