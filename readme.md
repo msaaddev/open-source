@@ -9,12 +9,14 @@
 </div>
 
 ## Table of Content
+- [Table of Content](#table-of-content)
 - [Automation Tools](#automation-tools)
 - [Packages](#packages)
 - [Web Apps](#web-apps)
 - [Guides](#guides)
 - [Contributions](#contributions)
 	- [Organizations](#organizations)
+	- [Users](#users)
 - [Talks](#talks)
 - [Others](#others)
 - [License & Conduct](#license--conduct)
@@ -65,6 +67,7 @@
 
 ### Organizations
 
+- [Facebook](https://github.com/facebook/create-react-app/pull/11246) – Changed primary branch from master to main in `create-react-app`.
 - [Node.js](https://github.com/nodejs/outreach/pulls?q=is%3Apr+msaaddev+is%3Aclosed) - Curated the content for the new community page of Node.js foundation.
 - [FreeCodeCamp](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/pull/573) – Added new open-source programs.
 - [Directus](https://github.com/directus/directus/pulls?q=is%3Apr+is%3Aopen+msaaddev) - Added some features related to CLI updation.
@@ -74,7 +77,33 @@
 - [NeoVantium](https://github.com/NeoVantium/NeoVantium.github.io/pull/1) – Fixed heading structure.
 - [Open-Dev-Community](https://github.com/Open-Dev-Community/Hacktoberfest/pull/16) – Improved content and headings.
 - [operator-framework](https://github.com/operator-framework/operator-framework.io/pull/22) – Added new meta tags and improved code formatting.
+- [first-contributions](https://github.com/firstcontributions/first-contributions/pull/41449) – Added my name to the contributor's list.
 - [Google Developer Students Club UET Chapter](https://github.com/dscuet) – Set up documentation website and chapter website for Google DSC UET.
+
+### Users
+
+- [FatimaYousif/FatimaYousif](https://github.com/FatimaYousif/FatimaYousif/pull/1)
+- [FatimaYousif/Signup_login](https://github.com/FatimaYousif/Signup_login/pull/1)
+- [ahmadawais/cli-handle-error](https://github.com/ahmadawais/cli-handle-error/pull/1)
+- [unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps/pull/95)
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs/pull/200)
+- [codingcrows/codingcrows.github.io](https://github.com/codingcrows/codingcrows.github.io/pull/2)
+- [msarimhassan/Advice-Generator-React-app](https://github.com/msarimhassan/Advice-Generator-React-app/pulls?q=is%3Apr+is%3Aclosed)
+- [asharirfan/reset-post-time](https://github.com/asharirfan/reset-post-time/pull/2)
+- [abdullah-ch/covid-19-tracker](https://github.com/abdullah-ch/covid-19-tracker/pull/1)
+- [thezaeemanwar/thezaeemaanwar.github.io](https://github.com/thezaeemaanwar/thezaeemaanwar.github.io/pull/1)
+- [ahmadawais/ramadan-cli](https://github.com/ahmadawais/ramadan-cli/pull/2)
+- [iqrafatimame/COVID-19](https://github.com/iqrafatimame/COVID-19/pull/3)
+- [MrAsimZahid/ChildCare](https://github.com/MrAsimZahid/ChildCare/pull/2)
+- [mtxr/vscode-sqltools](https://github.com/mtxr/vscode-sqltools/pull/539)
+- [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced/pull/337)
+- [danielpinto8zz6/c-cpp-project-generator](https://github.com/danielpinto8zz6/c-cpp-project-generator/pull/100)
+- [danielpinto8zz6/c-cpp-compile-run](https://github.com/danielpinto8zz6/c-cpp-compile-run/pull/176)
+- [aniats/student-notes-calendar](https://github.com/aniats/student-notes-calendar/pull/1)
+- [nasirhm/nasirhm.github.io](https://github.com/nasirhm/nasirhm.github.io/pull/2)
+- [iqrafatimame/Tribute-Page](https://github.com/iqrafatimame/Tribute-Page/pull/1)
+- [justEhmadSaeed/justehmadsaeed.github.io](https://github.com/justEhmadSaeed/justehmadsaeed.github.io/pulls?q=is%3Apr+is%3Aclosed)
+- [nisarhassan12/portfolio](https://github.com/nisarhassan12/portfolio/pull/3/files)
 
 ## Talks
 
