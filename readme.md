@@ -9,7 +9,7 @@
 </div>
 
 ## Table of Content
-- [Table of Content](#table-of-content)
+
 - [Automation Tools](#automation-tools)
 - [Packages](#packages)
 - [Web Apps](#web-apps)
