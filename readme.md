@@ -48,6 +48,7 @@
 - [Movieverse](https://github.com/msaaddev/movieverse) – A Next.js PWA to show you the top-rated movies on TMDB.
 - [Jobboard](https://github.com/msaaddev/jobboard) - A Next.js + Firebase PWA developed to get you hired.
 - [TTable](https://github.com/msaaddev/TTable) - A MERN stack application that can take care of all your university scheduling needs.
+- [Next.js Firebase Auth Template](https://github.com/msaaddev/next-firebase-auth-template) - A Next.js template with firebase user authentication implemented to quickly get you started with your project.
 - [GeoWeather](https://github.com/msaaddev/nextjs-weather-pwa) - A Next Weather Progressive Web App (PWA).
 - [COVID-19-STAT](https://github.com/msaaddev/COVID-19-STAT) - A Jamstack web app to keep you updated with coronavirus statistics.
 - [Shortify](https://github.com/msaaddev/Shortify) - A React.js frontend & Flask backend web app that uses Machine Learning to generate summary of an article.
