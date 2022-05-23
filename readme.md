@@ -39,6 +39,7 @@
 
 ## Packages
 
+- [promise-it](https://github.com/msaaddev/promise-it) - A simple Node.js package that helps you not to look up JavaScript promise syntax every time you use it.
 - [node-async-exec](https://github.com/msaaddev/node-async-exec) - A package that runs exec command asynchronously and also changes directory if needed to run commands.
 - [cross-paths](https://github.com/msaaddev/cross-paths) - A simple path conversion package to convert your paths across different platform.
 - [exit-cli](https://github.com/msaaddev/exit-cli) - A nice way to exit your command-line tools. Also, let the user know if an update is available for your CLI.
