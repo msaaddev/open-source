@@ -59,6 +59,7 @@
 
 ## Guides
 
+- [Frontend Resources](https://github.com/msaaddev/frontend-resources)
 - [git-commands-workflows](https://github.com/msaaddev/git-commands-workflows) - All the git commands and workflows you need to know to become proficient with git.
 - [Writing npm packages](https://dev.to/msaaddev/hitchhiker-s-guide-to-writing-your-first-open-source-software-dh0) - A Hitchhiker's Guide To Writing Your First Open-source software.
 - [Open-source Project files](https://dev.to/msaaddev/files-every-open-source-project-must-have-2mmm) - A piece on all the files you should have in your open-source project.
