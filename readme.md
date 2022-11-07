@@ -26,6 +26,7 @@
 
 ## Automation Tools
 
+- [validate-rss-sitemap](https://github.com/msaaddev/validate-rss-sitemap) - Validate RSS feed and Sitemap of one app against other app
 - [new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - A zero-configuration automation tool that supports integration of Tailwind CSS with six different web frameworks/libraries.
 - [create-next-pwa](https://github.com/msaaddev/create-next-pwa) - A nodejs command-line tool to instantly set up Progressive Web App with Next.js.
 - [create-foss-files](https://github.com/msaaddev/create-foss-files) - Get all the files you need to get started with the development of an open-source software.
