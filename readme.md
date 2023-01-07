@@ -26,6 +26,7 @@
 
 ## Automation Tools
 
+- [create-nextjs-blog](https://github.com/msaaddev/create-nextjs-blog) – Instantly set up Next.js blog with TS or JS using npx create-nextjs-blog
 - [validate-rss-sitemap](https://github.com/msaaddev/validate-rss-sitemap) - Validate RSS feed and Sitemap of one app against other app
 - [new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - A zero-configuration automation tool that supports integration of Tailwind CSS with six different web frameworks/libraries.
 - [create-next-pwa](https://github.com/msaaddev/create-next-pwa) - A nodejs command-line tool to instantly set up Progressive Web App with Next.js.
@@ -60,7 +61,7 @@
 
 ## Guides
 
-- [Frontend Resources](https://github.com/msaaddev/frontend-resources)
+- [Frontend Resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
 - [git-commands-workflows](https://github.com/msaaddev/git-commands-workflows) - All the git commands and workflows you need to know to become proficient with git.
 - [Writing npm packages](https://dev.to/msaaddev/hitchhiker-s-guide-to-writing-your-first-open-source-software-dh0) - A Hitchhiker's Guide To Writing Your First Open-source software.
 - [Open-source Project files](https://dev.to/msaaddev/files-every-open-source-project-must-have-2mmm) - A piece on all the files you should have in your open-source project.
