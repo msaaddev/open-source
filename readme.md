@@ -28,8 +28,8 @@
 
 - [create-nextjs-blog](https://github.com/msaaddev/create-nextjs-blog) – Instantly set up Next.js blog with TS or JS using npx create-nextjs-blog
 - [validate-rss-sitemap](https://github.com/msaaddev/validate-rss-sitemap) - Validate RSS feed and Sitemap of one app against other app
-- [new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - A zero-configuration automation tool that supports integration of Tailwind CSS with six different web frameworks/libraries.
-- [create-next-pwa](https://github.com/msaaddev/create-next-pwa) - A nodejs command-line tool to instantly set up Progressive Web App with Next.js.
+- [new-tailwind-app](https://github.com/msaaddev/new-tailwind-app) - A zero-configuration automation tool that supports the integration of Tailwind CSS with six different web frameworks/libraries.
+- [create-next-pwa](https://github.com/msaaddev/create-next-pwa) - A Node.js command-line tool to instantly set up Progressive Web App with Next.js.
 - [create-foss-files](https://github.com/msaaddev/create-foss-files) - Get all the files you need to get started with the development of an open-source software.
 - [stackoverflow-cli](https://github.com/msaaddev/stackoverflow-cli) - Interact with StackOverflow without leaving your code-editor.
 - [docx-to-markdown](https://github.com/msaaddev/docx-to-markdown) - Convert all your Micrsoft Word files to Markdown with a single command.
@@ -48,6 +48,7 @@
 
 ## Web Apps
 
+- [developeresume](https://github.com/msaaddev/developeresume) – Build your tech resume with ease
 - [Movieverse](https://github.com/msaaddev/movieverse) – A Next.js PWA to show you the top-rated movies on TMDB.
 - [Jobboard](https://github.com/msaaddev/jobboard) - A Next.js + Firebase PWA developed to get you hired.
 - [TTable](https://github.com/msaaddev/TTable) - A MERN stack application that can take care of all your university scheduling needs.
@@ -56,17 +57,18 @@
 - [COVID-19-STAT](https://github.com/msaaddev/COVID-19-STAT) - A Jamstack web app to keep you updated with coronavirus statistics.
 - [Shortify](https://github.com/msaaddev/Shortify) - A React.js frontend & Flask backend web app that uses Machine Learning to generate summary of an article.
 - [Notelify](https://github.com/msaaddev/Notelify) - A quick way to manage your notes on the Internet.
-- [AKS Trivia](https://github.com/msaaddev/aks-trivia) - A fun game website that asks you questions and you have 30 seconds to answer it.
+- [AKS Trivia](https://github.com/msaaddev/aks-trivia) - A fun game website that asks you questions, and you have 30 seconds to answer them.
 - [f-login-template](https://github.com/msaaddev/f-login-template) - A sign in with Facebook authentication template that you can use in your product.
 
 ## Guides
 
-- [Frontend Resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advance. Feel free to add new resources!
+- [Frontend Resources](https://github.com/msaaddev/frontend-resources) - A list of frontend resources from very basic to advanced. Feel free to add new resources!
 - [git-commands-workflows](https://github.com/msaaddev/git-commands-workflows) - All the git commands and workflows you need to know to become proficient with git.
 - [Writing npm packages](https://dev.to/msaaddev/hitchhiker-s-guide-to-writing-your-first-open-source-software-dh0) - A Hitchhiker's Guide To Writing Your First Open-source software.
 - [Open-source Project files](https://dev.to/msaaddev/files-every-open-source-project-must-have-2mmm) - A piece on all the files you should have in your open-source project.
 - [Prettier VSCode Extension](https://dev.to/msaaddev/make-your-code-look-pretty-prettier-591g) - A guide on how to set up prettier in your VSCode.
 - [csharp-runner](https://github.com/msaaddev/csharp-runner) - A step-by-step guide to run C# in your VSCode.
+- [API resources](https://rapidapi.com/developers/saad) – API resources and guides to learn all about REST, GraphQL, and Web APIs
 
 ## Contributions
 
