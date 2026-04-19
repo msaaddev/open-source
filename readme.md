@@ -131,5 +131,3 @@
 
 - MIT © [Saad Irfan](https://github.com/msaaddev)
 - [Code of Conduct](https://github.com/msaaddev/opensource/blob/master/code-of-conduct.md)
-
-![twitter](https://img.shields.io/twitter/follow/msaaddev?style=social)
